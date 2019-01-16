@@ -1,0 +1,200 @@
+1.	Ten
+2.	Fufu
+3.	Otumfuo Osei Tutu I
+4.	Cocoa
+5.	Farming
+6.	Cote D'Ivoire
+7.	Dr. Owusu Afriyie Akoto
+8.	The practice of growing a series of different types of crops in the same area in sequenced seasons
+9.	An agricultural crop grown for sale to return profit.
+10.	A kind of farming in which the land is ploughed and used to grow crops.
+11.	Twi
+12.	28.8 million
+13.	Accra
+14.	Obuasi
+15.	West Africa
+16.	Cape Three points
+17.	1957
+18.	Ashanti Region
+19.	7.7 billion
+20.	Qatar
+21.	Carbohydrates
+22.	Protein
+23.	fats and oil.
+24.	Vitamin K
+25.	Vitamin C
+26.	Akan
+27.	Ga
+28.	Accra
+29.	Three
+30.	northern part
+31.	Two
+32.	Ghana.
+33.	54
+34.	Trotro
+35.	doctors and nurses
+36.	football players
+37.	Terminal 3
+38.	Nigeria
+39.	VIP buses
+40.	Akosombo dam
+41.	Britain
+42.	1964
+43.	Nairobi
+44.	Africa
+45.	Yes
+46.	Tanzania to the south and south-west, Uganda to the west, South Sudan to the north-west, Ethipia to the north and Somalia to the north-east
+47.	Approximately 48 million
+48.	Mombasa
+49.	Kisumu city
+50.	Yes
+51.	Mzee Jomo Kenyatta
+52.	Daniel Arap Moi
+53.	Mwai Kibaki
+54.	Uhuru Kenyatta
+55.	4
+56.	The President of Kenya
+57.	Agriculture
+58.	Tourism
+59.	24%
+60.	14%
+61.	15
+62.	Geothermal power
+63.	$74.94 billion (2017)
+64.	4.9%
+65.	tea, coffee, flowers
+66.	73%
+67.	Kikuyu
+68.	English, Kiswahili
+69.	Christianity
+70.	Islam
+71.	4.49 children per woman
+72.	8-4-4
+73.	8 years
+74.	4 years
+75.	Ngugi wa Thiong'o
+76.	Sauti Sol band
+77.	middle-distance athletics, long-distance athletics
+78.	Kenya is named after mt. Kenya
+79.	Ugali
+80.	Rift Valley Academy
+81.	Asynchronous JavaScript and XML.
+82.	JavaScript Object Notation.
+83.	Hypertext Markup Language.
+84.	PHP Hypertext Preprocessor.
+85.	Cascading Style Sheets.
+86.	Standard Query Language
+87.	Content Management System
+88.	Wordpress, WIX
+89.	Active Server Pages
+90.	extensible markup language.
+91.	Extensible Stylesheet Language
+92.	Extensible Stylesheet Language Transformations
+93.	HyperText Transfer Protocol
+94.	Java is a programming language. Java is used to develop mobile apps, web apps, desktop apps, games and much more.
+95.	eXtensible Markup Language
+96.	Active Server Pages. ASP is a development framework for building web pages.
+97.	Python is a popular programming language. It was created in 1991 by Guido van Rossum. It is used for: web development (server-side), software development, mathematics and system scripting.
+98.	AngularJS is a JavaScript framework. It is a library written in JavaScript. AngularJS extends HTML with ng-directives.
+99.	Bootstrap is the most popular HTML, CSS, and JavaScript framework for developing responsive, mobile-first websites.
+100.	JSON stands for JavaScript Object Notation. JSON is a syntax for storing and exchanging data.
+101.	Node.js is an open source server environment. Node.js allows you to run JavaScript on the server.
+102.	AJAX can be used to read data from a web server - after the page has loaded, update a web page without reloading the page and send data to a web server - in the background.
+103.	HTML stands for Hypertext markup language. HTML describes the structure of Web pages using markup. HTML elements are the building blocks of HTML pages. 
+104.	JavaScript is the programming language of HTML and the Web. JavaScript can make changes to HTML attributes and modify CSS.
+105.	for Cascading Style Sheets.
+106.	jQuery is a lightweight, "write less, do more", JavaScript library
+107.	SQL is a standard language for storing, manipulating and retrieving data in relational databases.
+108.	PHP is a server scripting language, and a powerful tool for making dynamic and interactive Web pages.
+109.	RSS stands for "Really Simple Syndication". 
+110.	ReactJS basically is an open-source JavaScript library which is used for building user interfaces specifically for single page applications.
+111.	React Native is a JavaScript framework for writing real, natively rendering mobile applications for iOS and Android.
+112.	Vue is a progressive framework for building user interfaces.
+113.	All HTML elements can have attributes. Attributes provide additional information about an element.
+114.	Responsive Web design is the approach that suggests that design and development should respond to the user's behavior and environment based on screen size, platform and orientation. The practice consists of a mix of flexible grids and layouts, images and an intelligent use of CSS media queries.
+115.	HTML5 is the latest evolution of the standard that defines HTML.
+116.	The Document Object Model (DOM) is an application programming interface (API) for valid HTML and well-formed XML documents.
+117.	A relational database is a set of formally described tables from which data can be accessed or reassembled in many different ways without having to reorganize the database tables. 
+118.	A NoSQL (originally referring to "non SQL" or "non relational") database provides a mechanism for storage and retrieval of data that is modeled in means other than the tabular relations used in relational databases. 
+119.	WordPress is an online, open source website creation tool written in PHP.
+120.	SQL injection is a code injection technique, used to attack data-driven applications, in which nefarious SQL statements are inserted into an entry field for execution (e.g. to dump the database contents to the attacker).
+121.	The Fastest Goal in Soccer history was scored just over 2 seconds after kick-off.
+122.	Soccer is played in a stadium.
+123.	At the start of a game, there are a total of 22 footballers on the pitch (11 a-side).
+124.	To become a Football Association (FA) referee you need to be at least 14-years-old.
+125.	In FIFA Football, a penalty kick is a unique version of the direct free kick.
+126.	The original 2014 World Cup's ball was produced in Pakistan.
+127.	The most goals scored in a World Cup's match was 10 by Hungary against El Salvador in 1982.
+128.	The British coined the term "Soccer" in the late 1800s, not America.
+129.	Australia's National Soccer team is called "The Socceroos."
+130.	A 20-month-old baby was the youngest professional soccer player ever, after being signed up by a Belgian club.
+131.	The first soccer game was televised in 1937.
+132.	The first soccer game televised was a friendly match between Arsenal's first and second team in 1937.
+133.	On average, soccer players run as far as 9.5 miles in a single match.
+134.	90 minutes, excluding additional time and extra time.
+135.	Yes it does.
+136.	Yes it does.
+137.	The Fédération Internationale de Football Association (FIFA) is an association governed by Swiss law.
+138.	FIFA was founded in 1904
+139.	FIFA is headquatered in Zuric, Switzerland
+140.	FIFA has 211 national associatons
+141.	The first World Cup took place in Montevideo, Uruguay in 1930.
+142.	Just 13 national teams participated.
+143.	The hosts Uruguay were the winners of the first wworld cup.
+144.	The UEFA Champions League is an annual club football competition organised by UEFA and contested by top-division European clubs.
+145.	The UEFA Champions League was founded in 1955.
+146.	The World Cup's top scorer is the retired German striker Miroslav Klose. He scored 24 goals over four tournaments.
+147.	The former French player Just Fontaine holds the record for top scorer in a single World Cup. In 1958 he sccored 13 goals.
+148.	Real Madrid was the first team to ever win the Champions League in 1955-56. 
+149.	Tony Britten wrote the UEFA Champions League anthem in 1992 when the competition got rebranded.
+150.	The fastest goal scored in the Champions League was by Bayern Munich’s Roy Makkay versus Real Madrid in 2007.
+151.	The biggest win in World Cup Qualifying was in 2001, between Australia and American Samoa. The Australians won by 31 to 0.
+152.	The team with the most trophies is Brazil. They have won the competition on five occasions.
+153.	Retired goalkeeper Dino Zoff is the oldest player to win the competition in 1982 when Italy won it. He was 40 years old.
+154.	Brazil is the only team to have participated in every edition of the World Cup.
+155.	Swansea’s Bafétimbi Gomis scored the fastest Champions League hattrick in 2011 under 8 minutes.
+156.	Brazil (in 1958 and 1962) and Italy (in 1934 and 1938) are the only countries to win the competitions back-to-back.
+157.	Uruguay in 1930, Italy in 1934, England in 1966, Germany in 1974, Argentina in 1978 and France in 1998.
+158.	The Brazillain, Jairzinho is the only footballer to score at least one goal in every game of one competition.
+159.	 Rafael Marques, Lothar Matthaus and Antonio Carbajal all have 5 appearances. 
+160.	Former Cameroon striker, Roger Milla. He was 42-years old.
+161.	The best times to buy a new car are at the end of the month, the end of the quarter and the end of the year. Dealers and their salespeople are rewarded for meeting sales goals during those time periods, so the sale of a few more vehicles could result in their getting a huge bonus that is based on all the vehicles they sold before the end of that time period. In these situations, dealers and salespeople are so motivated to close a sale that they will let some new cars go with little-or-no profit in the deal.
+162.	No, there are no laws giving you a "three day right to cancel" or any kind of cooling-off period that would permit you to return a car that you bought. However, if the dealer puts that language in your contract (most dealers won't), then it might be possible. Just remember: if something you want is not in writing, you're probably not going to get it.
+163.	The dealer invoice price is NOT the real dealer cost on a new car or truck. Dealers get all kinds of cash incentives, rewards and bonuses after new vehicles are sold, which allows them to make huge profits when they sell at the invoice price.
+164.	In most cases, leasing is NOT cheaper than buying. If you typically keep new cars longer than three years, then buying is going to be cheaper in the long run.
+165.	A good lease deal is no money down, lease term 36 months or less, and a $200 monthly payment - or as close to this as you can get. 
+166.	Our inventory is primarily 1-Owner Carfax Certified cars and truck. Most of our vehicles are Factory Certification Eligible.
+167.	Yes, simply fill out our locater request and we will locate a vehicle that meets your requirements.
+168.	Yes we welcome any independent inspection to be performed on all of our vehicles.
+169.	We have access to all original equipment part as well as all aftermarket and high performance. Feel free to contact us if you have any specific questions or requests.
+170.	We recommend you have your brakes inspected approximately every 2nd oil change. This is the best way to ensure top safety and performance, and avoid long-term damage.
+171.	If you feel that something’s not right with your vehicle, the best thing you can do is write down the symptoms, come in and see us, and give us the best explanation that you can.
+172.	When driving in the winter, be sure to familiarize yourself with potential conditions, such as hydroplaning or snow, keep emergency numbers available at all times.
+173.	As an environmentally-friendly automotive shop, Victoria Transmission and Auto Care is proud to offer tips and tricks to our valued customers, to help you be a more ‘green’ driver.
+174.	Very! Following your vehicle's routine maintenance schedule is the most effective thing you can do to preserve your vehicle's resale value and prolong its working life.
+175.	One of the most obvious reasons to buy used is the cost involved – used cars are, on average, 50% cheaper than new cars. Finance options will also be much more convenient, with shorter terms and lower payments.
+176.	At the moment, we do not offer leasing options for used cars, but you can opt for our other great solutions, such as a Personal Contract Plan or Hire Purchase.
+177.	Oftentimes it is not possible to receive a detailed history of your car – this is not the case at Thame Cars. Each one of our used cars comes with thorough information, is under 25,000 miles, visually looked after and screened through a 100-point safety check before being sold, so you can be sure that our cars are as reliable as they come.
+178.	Used cars are priced according to their specifications, age and condition. At Thames, all our cars enjoy low prices and great quality – each one is carefully inspected and under 25,000 miles.
+179.	Used cars are taxed according to where you buy them from and when they were registered. Buying a car with a registration certificate (V5C) from a dealer ensures that switching to a used car will be hassle-free and that you get all the help you need with the process.
+180.	It is estimated that the use of air conditioning in a typical car reduces fuel economy by one to two miles per gallon. For larger cars, or when traveling in extreme heat, air conditioning cuts fuel economy up to four miles per gallon.
+181.	Definitely. When tires are cold, add five pounds to the pressures recommended by your car's manufacturer. But don't overload the car because excessive loads and sharp impacts can cause tire cord breaks and create damaging heat buildup because of abnormal sidewall flexing.
+182.	A car engine shouldn't be left idling unnecessarily for more than a minute. It takes less fuel to start a car than it takes to let it idle while waiting, say, for a long freight train to pass.
+183.	An engine shouldn't idle for more than 15 to 30 seconds in any season, especially if it's fuel-injected.
+184.	The old models were more colorful and simpler to fix. But they were fuel-guzzling, overweight polluters that didn't stay in tune as long as modern cars. Also, while most 1950s cars rarely exceeded 100,000 miles without lots of maintenance and gentle driving, even low-priced 1990s autos are routinely driven far more than 100,000 miles with minimal maintenance. They're also safer, with items such as air bags, advanced safety belt systems, anti-lock brakes and "crush" zones that let the car--not its occupants--absorb the impact in collisions. Being lighter and more efficient, they're faster with a V-6 than most of the old V-8s.
+185.	Buy gasoline at busy stations to ensure you don't get a "bad load" that has been sitting too long in a tank. Also, don't buy gas at a station at the same time you see a delivery truck filling an underground tank--and stirring up impurities in the fuel in that tank.
+186.	While window shopping is a good way to get started on your car buying journey, the only way to get the best feel for a vehicle is to get behind the wheel for a test drive.
+187.	Regular maintenance helps to keep any vehicle running at optimum levels.
+188.	Oil changes should be done every three months or every 3,000 to 5,000 miles, whichever comes first.
+189.	Oil changes are necessary to keep your vehicle running in good condition, as oil provides lubrication for your engine and helps maintain cleanliness.
+190.	Your vehicle should be able to travel in a straight line without corrective action from you when the steering wheel is in the proper position. If it can't, your automobile may be out of alignment.
+191.	This is a vehicle history report based on the VIN number of the vehicle. A CarFax report typically provides information like how many owners the car has had and if it has been in an accident.
+192.	This is the amount that the dealership will credit you towards a new purchase based on the value of the vehicle that you have traded in.
+193.	If you don't mind listing the vehicle, marketing it, scheduling potential buyers, worrying about damage done during a test drive and other "costs," then you might choose to sell it yourself.
+194.	You will always find an extensive inventory of new Dodge cars and RAM trucks at competitive prices at our Dodge dealership, no matter the time of year. 
+195.	If you want your car to run for years, be sure to get it regular maintenance. When you schedule regular maintenance at our Ford service center, you will feel confident in the health of your vehicle.
+196.	We buy from sellers like Mercedes-Benz Credit, BMW Financial, and etc....If you've ever leased or purchased a new car from a Mercedes-Benz Dealer, then you probably were financed through either your own credit union or Mercedes-Benz Credit Corp.
+197.	Leasing a new Toyota sedan or a new luxury SUV has several advantages. If you like the idea of driving a new car every few years, don't drive a lot of miles per year (12,000 or less), don't relish the idea of trading in or selling a vehicle after your purchase it, then leasing at our car dealership in Indianapolis, IN makes a lot of sense.
+198.	Not at all. We're living in a pre-owned vehicle "golden age", where the quality and reliability possessed by pre-owned cars, and especially certified pre-owned cars, is at an all-time high. For example, every certified used car for sale is exhaustively inspected, refurbished into "like new" condition, and comes with an exceptional warranty, maintenance discounts, and much more.
+199.	Anyone who is not currently affiliated with a car dealership, or has not worked for any car dealership in the past 5 years can write a review provided he/she has had firsthand experience with the dealership. 
+200.	Your check engine light could be on for a multitude of reasons from the gas cap not being sealed properly to sensors or an even bigger issue.

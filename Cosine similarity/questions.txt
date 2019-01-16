@@ -1,0 +1,201 @@
+1.	How many regions are in Ghana?
+2.	What is the favorite food for people in Ashanti region of Ghana?
+3.	What is the name of the king of the Asantes?
+4.	What cash crop does Ghana export?
+5.	What is the primary occupation in Ghana?
+6.	Which country is the leading producer of cocoa in Africa?
+7.	Who is the minister of Food and Agriculture in Ghana?
+8.	What is crop rotation?
+9.	What is a cash crop?
+10.	What is arable farming?
+11.	What is the dominant native language in Ghana?
+12.	What is the current population of Ghana?
+13.	What is the capital city of Ghana?
+14.	Where is golf mined in Ashanti Region?
+15.	Ghana is in which part of Africa?
+16.	What is the southest point in Ghana?
+17.	Which year did Ghana gain independence?
+18.	Which region in Ghana has the largest population?
+19.	What is the world population in 2018?
+20.	Which is the richest country in the world?
+21.	Which food nutrient is in cooked yam?
+22.	Which food nutrient is in fried meat?
+23.	Which food nutrient is in groundnuts?
+24.	Which type of vitamins helps blood clotting?
+25.	Which type of vitamins helps scurvy?
+26.	Which is the largest ethnic group in Ghana?
+27.	Which people celebrate Homowo festival?
+28.	Which city in Ghana has the largest population?
+29.	How many religions are in Ghana?
+30.	Where are cattle dominantly reared in Ghana?
+31.	How many lakes are in Ghana?
+32.	Which country is Ashesi University found?
+33.	How many countries are in Africa?
+34.	What is the most popular name for mini commercial vehicles in Ghana?
+35.	Which professionals work in the hospital?
+36.	Which people are always on the pitch when one goes to the stadium?
+37.	What is the new terminal opened in Accra?
+38.	Which is the richest country in Africa?
+39.	Which transport company is the mostly popular in Accra and Kumasi?
+40.	Which dam supplies electricity to Ghana?
+41.	Which country colonised Kenya?
+42.	When did Kenya gain its independence?
+43.	What is the capital city of Kenya?
+44.	Which continent is Kenya in?
+45.	Does the equator pass through Kenya?
+46.	Which countries does Kenya border?
+47.	What is the current population of Kenya?
+48.	Which is the oldest city in Kenya?
+49.	Which is the secold largest city in Kenya?
+50.	Is Kenya part of the African Great Lakes region?
+51.	Who was the first president of Kenya?
+52.	Who was the second president of Kenya?
+53.	Who was the third president of Kenya?
+54.	Who is the current president of Kenya?
+55.	How many presidents has Kenya had since independence?
+56.	Who is the comander in chief of the Kenya Defence Forces?
+57.	What is largest source of foreign exchange revenue in Kenya?
+58.	What is second largest source of foreign exchange revenue in Kenya?
+59.	What percentage does agriculture constitute the GDP in Kenya?
+60.	What percentage does manufacturing constitute the GDP in Kenya?
+61.	How many airports does Kenya have?
+62.	Where does the largest share of Kenya's electricity supply comes from?
+63.	What is Kenya's GDP?
+64.	What is Kenya's annual growth rate?
+65.	What are three main cash crops exported from Kenya?
+66.	What percentage of Kenya's population is below 30 years?
+67.	What is the largest native ethnic group in Kenya?
+68.	What is the official language in Kenya?
+69.	Which is the main religion in Kenya?
+70.	Which is the second largest religion in Kenya?
+71.	What is the total fertility rate in Kenya?
+72.	What education system does Kenya use?
+73.	How many years is primary school education in Kenya?
+74.	How many years is secondary school education in Kenya?
+75.	Who is the best know author from Kenya?
+76.	Who is the top artiste in Kenya?
+77.	What sports is Kenya known for?
+78.	Where does Kenya get its name from?
+79.	What is Kenya's staple food?
+80.	Which is the best high school in Kenya?
+81.	What does AJAX stand for?
+82.	What does JSON stand for?
+83.	What does HTML stand for?
+84.	What does PHP stand for?
+85.	What does CSS stand for?
+86.	What does SQL stand for?
+87.	What does CMS stand for?
+88.	What are some examples of Content Management Systems (CMSs)?
+89.	What does ASP stand for?
+90.	What does XML stand for?
+91.	What does XSL stand for?
+92.	What does XSLT stand for?
+93.	What does HTTP stand for?
+94.	What is Java?
+95.	What is XML?	
+96.	What is ASP?	
+97.	What is Python?
+98.	What is AngularJS?
+99.	What is Bootstrap?
+100.	What is JSON?
+101.	What is Node.js?
+102.	What is AJAX?	
+103.	What is HTML?
+104.	What is JavaScript?
+105.	What is CSS?
+106.	What is jQuery?	
+107.	What is SQL?
+108.	What is PHP?
+109.	What is an RSS feed?
+110.	What is ReactJS?
+111.	What is React Native?
+112.	What is VueJS?	
+113.	What are HTML attributes?
+114.	What is responsive web design
+115.	What is HTML5?
+116.	What does DOM mean?
+117.	What is a relational database?
+118.	What is a non-relational database?
+119.	What is Wordpress?
+120.	What is SQL injection?
+121.	How quick was the fastest goal in soccer?
+122.	What is the name of the physical location where soccer is played?
+123.	How many players are on a soccer pitch at every point in time?
+124.	How can I become a referee?
+125.	What is a Penalty in Football?
+126.	Where was the original 2014 world cup's ball produced?
+127.	What's the most goals scored in a world cup match?
+128.	Did America coin the term "soccer"?
+129.	What is the Australian national soccer team called? 
+130.	Who was the youngest ever professional soccer player?
+131.	When was the first soccer game televised?
+132.	What was the first soccer game televised? And what teams played?
+133.	On average how far do soccer players run in a match?
+134.	How many minutes are played in a normal soccer game?
+135.	Does the Vatican have its own soccer team?
+136.	 Does FIFA have more member countries than the United Nations?
+137.	What is FIFA?
+138.	When was FIFA founded?
+139.	Where is the headquarter of FIFA?
+140.	How many member countries does FIFA have?
+141.	Where did the first world cup take place? 
+142.	How many teams participated in the first world cup?
+143.	Who won the first world cup? 
+144.	What is the UEFA Champions League?
+145.	When was the UEFA Champions League founded? 
+146.	Who's the top scorer in the World Cup?
+147.	Who holds the record for top scorer in a single World Cup?
+148.	Who was the first team to win the Champions League?
+149.	Who wrote the UEFA Champions League anthem?
+150.	Who scored the fastest goal in the UEFA Champions League?
+151.	What is the biggest win in a World Cup Qualifying game?
+152.	What national team has the most world cup trophies?
+153.	Who is the oldest player to win the world cup?
+154.	Has any team participated in all world cup competitions? 
+155.	Who scored the fastest hattrick in the UEFA Champions League?
+156.	Has any team won the world cup back-to-back?
+157.	Which teams have won the world cup as a host?
+158.	Who is the most regular world cup scorer?
+159.	Which player has the most appearances in the world cup?
+160.	Who is the oldest player to score at the world cup?
+161.	When is the best time to buy a new car?
+162.	Is there a "three day right to cancel" when buying a car?
+163.	Is the dealer invoice price the real dealer cost on new cars?
+164.	Is leasing cheaper than buying?
+165.	What is a good lease deal? 
+166.	What is the condition of your vehicles?
+167.	Can I order a used car?
+168.	Can I have an Independent inspection performed?
+169.	What types of parts are you able to order and install?
+170.	How often should I have my brakes serviced?
+171.	How can I figure out what’s wrong with my vehicle
+172.	What are some winter driving tips?
+173.	How can I be a more environmentally-friendly driver?
+174.	How important is car maintenance?
+175.	Is buying a used car better than buying a new one?
+176.	Can you lease used cars?
+177.	 Are used cars reliable?
+178.	How are used cars priced?
+179.	Are used cars taxed?
+180.	How must extra fuel is burned when using air conditioning?
+181.	Does putting extra air in the tires help a car cope with carrying extra weight?
+182.	Should you turn your car off when stopped for extended periods?
+183.	How long should you warm up an engine before winter driving?
+184.	Are today's cars really better than the ones built in the 1950s?
+185.	Does it matter where you buy gasoline?
+186.	Why is test driving a car important?
+187.	How important is car maintenance?
+188.	How do I know when I need an oil change?
+189.	Why do I need regular oil changes?
+190.	My car won't hold a straight line without corrections from me. Is something wrong?
+191.	What is CarFax?
+192.	What is a trade-in value?
+193.	Should I sell my car myself or trade it in?
+194.	When is the best time to buy a car?
+195.	How important is vehicle maintenance?
+196.	WHERE DO YOU BUY YOUR VEHICLES?
+197.	What are the advantages to leasing a car?
+198.	Should I be concerned about the quality of pre-owned cars?
+199.	Who can write a dealer review?
+200.	WHY IS MY CHECK ENGINE LIGHT ON? WHAT IF IT’S BLINKING?
+
